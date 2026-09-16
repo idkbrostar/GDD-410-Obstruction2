@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: 42e57f0fee46a5e42bc1313f54b2fac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6481488964827047586
+    second: Realistic Explosion Sprite Sheet_0
+  - first:
+      213: -3132094381161427200
+    second: Realistic Explosion Sprite Sheet_1
+  - first:
+      213: 4040323586743626251
+    second: Realistic Explosion Sprite Sheet_2
+  - first:
+      213: 4996369113086534139
+    second: Realistic Explosion Sprite Sheet_3
+  - first:
+      213: 8778779425228618332
+    second: Realistic Explosion Sprite Sheet_4
+  - first:
+      213: -5453966957151062509
+    second: Realistic Explosion Sprite Sheet_5
+  - first:
+      213: -4807317720185366423
+    second: Realistic Explosion Sprite Sheet_6
+  - first:
+      213: -8524141116154414950
+    second: Realistic Explosion Sprite Sheet_7
+  - first:
+      213: 5813362349342651853
+    second: Realistic Explosion Sprite Sheet_8
+  - first:
+      213: 1884545436246292868
+    second: Realistic Explosion Sprite Sheet_9
+  - first:
+      213: 7290293393647337096
+    second: Realistic Explosion Sprite Sheet_10
+  - first:
+      213: 1965914147815512066
+    second: Realistic Explosion Sprite Sheet_11
+  - first:
+      213: 4709593630194281148
+    second: Realistic Explosion Sprite Sheet_12
+  - first:
+      213: -4619636490453605280
+    second: Realistic Explosion Sprite Sheet_13
+  - first:
+      213: -8700219966066479951
+    second: Realistic Explosion Sprite Sheet_14
+  - first:
+      213: -7272839631224401230
+    second: Realistic Explosion Sprite Sheet_15
+  - first:
+      213: -6270248653612609684
+    second: Realistic Explosion Sprite Sheet_16
+  - first:
+      213: -9080346653416555032
+    second: Realistic Explosion Sprite Sheet_17
+  - first:
+      213: -7749526259184165990
+    second: Realistic Explosion Sprite Sheet_18
+  - first:
+      213: 4531275026772533610
+    second: Realistic Explosion Sprite Sheet_19
+  - first:
+      213: -3665803525256668109
+    second: Realistic Explosion Sprite Sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a661248fdfd2f950800000000000000
+      internalID: 6481488964827047586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f40ef31c09884d0800000000000000
+      internalID: -3132094381161427200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6c7545ec121830800000000000000
+      internalID: 4040323586743626251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1a1488c3ba65540800000000000000
+      internalID: 4996369113086534139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a7242106d74d970800000000000000
+      internalID: 8778779425228618332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316fa46e2fd9f44b0800000000000000
+      internalID: -5453966957151062509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96819e5f00af84db0800000000000000
+      internalID: -4807317720185366423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98705451da24b980800000000000000
+      internalID: -8524141116154414950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5f23791463da050800000000000000
+      internalID: 5813362349342651853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4893b8ae610472a10800000000000000
+      internalID: 1884545436246292868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ef9b447335c2560800000000000000
+      internalID: 7290293393647337096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20855776084584b10800000000000000
+      internalID: 1965914147815512066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba2c244476db5140800000000000000
+      internalID: 4709593630194281148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064a41b7611c3efb0800000000000000
+      internalID: -4619636490453605280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca8de590c924780800000000000000
+      internalID: -8700219966066479951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b29c7873eea11b90800000000000000
+      internalID: -7272839631224401230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Realistic Explosion Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f8c0c121a9bf8a0800000000000000
+      internalID: -6270248653612609684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 60c7eb604aabbb14f8e28cb853ca2db5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":71.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":true,"isAlternate":false}'
+    nameFileIdTable:
+      Realistic Explosion Sprite Sheet_0: 6481488964827047586
+      Realistic Explosion Sprite Sheet_1: -3132094381161427200
+      Realistic Explosion Sprite Sheet_10: 7290293393647337096
+      Realistic Explosion Sprite Sheet_11: 1965914147815512066
+      Realistic Explosion Sprite Sheet_12: 4709593630194281148
+      Realistic Explosion Sprite Sheet_13: -4619636490453605280
+      Realistic Explosion Sprite Sheet_14: -8700219966066479951
+      Realistic Explosion Sprite Sheet_15: -7272839631224401230
+      Realistic Explosion Sprite Sheet_16: -6270248653612609684
+      Realistic Explosion Sprite Sheet_2: 4040323586743626251
+      Realistic Explosion Sprite Sheet_3: 4996369113086534139
+      Realistic Explosion Sprite Sheet_4: 8778779425228618332
+      Realistic Explosion Sprite Sheet_5: -5453966957151062509
+      Realistic Explosion Sprite Sheet_6: -4807317720185366423
+      Realistic Explosion Sprite Sheet_7: -8524141116154414950
+      Realistic Explosion Sprite Sheet_8: 5813362349342651853
+      Realistic Explosion Sprite Sheet_9: 1884545436246292868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
